@@ -1,3 +1,38 @@
 body{
-background-color: rgb(209, 188, 160);
+background-color:#DE9494;
+color:#504B1C;
+text-align: justify;
+font-size: 20px;
+padding: 0 24px;
 }
+.titulo-principal{
+    color: #504B1C;
+    font: size 24px; ;
+    font-family:"Cabin Condensed";
+
+}
+.subtitulo{
+    color: #2216C9;
+    font: size 18px; 
+    font-family:"" ;
+}
+.texto-um{
+    color:#161509 ;
+    font: size 16px; 
+}
+.paragrafo{
+    color:#504B1C ;
+    font: size 15px; 
+}
+.rodape{
+    text-align: center;
+    display: grid;
+    font-size: 15px;
+    color: #161509;
+
+}
+.imagem{
+    width:40% ;
+}
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Condensed:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Condensed:wght@400;500;600;700&family=Irish+Grover&display=swap');
